@@ -1,0 +1,11 @@
+data.csv
+*.pth
+.vscode/
+__pycache__/
+.venv/
+camargo数据集_emg_processed/
+camargo数据集_imu_processed/
+mamba_ssm_results/
+.cache/
+*.csv
+.cache/camargo数据集_emg_processed_camargo数据集_imu_processed_dual_ws500_100_st250_50_all_index.json
